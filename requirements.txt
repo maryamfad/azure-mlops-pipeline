@@ -1,0 +1,6 @@
+# Week 1: data download
+pandas>=2.0
+ucimlrepo>=0.0.7
+
+# Added in later weeks:
+# scikit-learn, mlflow, azure-ai-ml, azure-identity, pytest
